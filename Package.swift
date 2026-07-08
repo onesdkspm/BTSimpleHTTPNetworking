@@ -16,8 +16,8 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "BTSimpleHTTPNetworking",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/BTSimpleHTTPNetworking/2.0.2-dev-1480241/BTSimpleHTTPNetworking.xcframework.zip",
-            checksum: "ac9e11c1c5d71e0e0738bbb9502c02a551d8491cb75ce7ef9cbd8fe9e8720bc6"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/BTSimpleHTTPNetworking/2.0.3-dev-1481308/BTSimpleHTTPNetworking.xcframework.zip",
+            checksum: "9e403e4d5c2a6255aaf3bd7594fabd0b2852f407f57dae0711158084222e3388"
         )
     ]
 )
